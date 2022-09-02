@@ -1,9 +1,16 @@
 /* STYLESHEET */
+body{
+    box-sizing: border-box;
+}
 
 
 
 /* HEADER */
-
+header{
+    background-color: black;
+    text-align: center;
+    padding: 2.5rem;
+}
 
 
 /* HERO */
