@@ -129,7 +129,7 @@ cite{
 /* CARD */
 
 .card-sct{
-    margin: 15% 5%;
+    margin: 15% 5% 20% 5%;
 }
 
 .card{
@@ -160,3 +160,40 @@ cite{
 /* ----------------------------- */
 
 /* FOOTER */
+
+footer{
+    padding: 12% 5% 20% 5%;
+    background-color: #25a2c3;
+}
+
+address{
+    padding-top: 8%;
+}
+
+address a{
+    color: #c8e7f0;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+ 
+address span{
+    display: block;
+    color: #fdfffa;
+    font-size: 1.4rem;
+}
+
+#maps{
+    text-decoration: none;
+}
+
+hr{
+    margin: 8% 20% 8% 20%;
+    border: solid 1px #c8e7f0;
+}
+
+.credits, .credits>a{
+    font-size: 1.15rem;
+    color: #c8e7f0;
+    padding: 0;
+    
+}
