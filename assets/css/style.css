@@ -32,7 +32,7 @@ h2{
 }
 
 h4{
-    font-size: 1.2rem
+    font-size: 1.3rem
 }
 
 p{
@@ -128,6 +128,33 @@ cite{
 
 /* CARD */
 
+.card-sct{
+    margin: 12% 8%;
+}
+
+.card{
+    overflow: hidden;
+    border: solid 1px #dee1e3;
+    border-radius: 3px;
+    background-color: white;
+    
+}
+
+.card:nth-child(2){
+    margin: 5% 0 ;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card-text{
+    padding: 2% 5% 5% 5%;
+}
+
+.card p{
+    font-size: 1.2rem;
+}
 
 
 /* ----------------------------- */
