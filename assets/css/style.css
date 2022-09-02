@@ -60,18 +60,34 @@ button{
     color: white;
     text-transform: uppercase;
     font-weight: 600;
-
     border: none;
     border-radius: 5px;
     background-color: #f04c2f;
 }
 
+button:hover{
+    box-shadow: 0px 5px 25px  #b52e1642;
+    background-color: #d24026;
+
+}
 
 /* ----------------------------- */
 
 /* SECTION */
 
+.section-one{
+    margin: 12% 5%;
 
+}
+
+.sct-one-block{
+    margin: 5%;
+}
+
+.section-one img{
+    width: 80%;
+    border-radius: 50%;
+}
 
 /* ----------------------------- */
 
